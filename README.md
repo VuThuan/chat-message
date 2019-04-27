@@ -6,6 +6,7 @@
 
 Đầu tiên , bạn phải cài đặt xampp và composer 
 Sau đó ,
+ - chạy lệnh composer update để cài đặt 
  - cấu hình lại file .env và docker-composer.yml
  - chạy câu lệnh php artisan migrate đề thêm bảng vào csdl 
  - Thêm dữ liệu vào bảng user : php artisan db:seed
