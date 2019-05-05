@@ -14,7 +14,7 @@
 
 <p style="color:blue;"> #cách cài đặt</p>
 
-Đầu tiên , bạn phải cài đặt xampp và composer .
+Đầu tiên , bạn phải cài đặt xampp và composer .<br>
 Sau đó ,
  - chạy lệnh composer update để cài đặt 
  - cấu hình lại file .env và docker-composer.yml bằng cách gõ lệnh cp .env.example .env   và lệnh cp docker-composer.yml.example docker-composer.yml
